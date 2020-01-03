@@ -27,3 +27,6 @@ runtime-1.9/
 build/
 .idea/
 run/
+.vscode/
+.classpath
+.project
